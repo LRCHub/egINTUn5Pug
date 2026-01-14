@@ -1,0 +1,27 @@
+# Mac DeMarco – This Old Dog
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.55] Sometimes my love may be put on hold
+[00:11.15] Sometimes my heart may seem awful cold
+[00:19.75] These times come and these times go
+[00:28.48] As long as I live, all you need to know is
+[00:49.48] 
+[00:36.92] This old dog ain't about to forget
+[00:45.62] All we've had
+[00:48.53] And all that's next
+[00:54.48] 'Long as my heart's beating in my chest
+[01:03.03] This old dog ain't about to forget
+[01:20.03] 
+[01:11.81] Often a heart tends to change its mind
+[01:20.32] A new day decides on a new design
+[01:28.83] A new day gets set on another way
+[01:37.58] As long as I live, all I've got to say is
+[01:58.08] 
+[01:46.27] This old dog ain't about to forget
+[01:54.85] All we've had
+[01:57.69] And all that's next
+[02:03.53] 'Long as my heart's beating in my chest
+[02:12.17] This old dog ain't about to forget
+```
