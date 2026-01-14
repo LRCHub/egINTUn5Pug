@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "This Old Dog",
+  "base_artist": "Mac DeMarco",
+  "createdAt": "2026-01-14T02:20:10.570444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Old Dog",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/01_This_Old_Dog_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Old Dog",
+      "artist": "Viagra Boys",
+      "has_synced": true,
+      "path": "select/02_This_Old_Dog_Viagra_Boys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Old Dog",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/03_This_Old_Dog_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Throw This Old Dog a Bone",
+      "artist": "John Lee Hooker",
+      "has_synced": false,
+      "path": "select/04_Throw_This_Old_Dog_a_Bone_John_Lee_Hooker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Old Dog (Live Studio Recording 2020 Remaster)",
+      "artist": "Procol Harum",
+      "has_synced": true,
+      "path": "select/05_This_Old_Dog_(Live_Studio_Recording_2020_Remaster)_Procol_Harum.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Old Dog",
+      "artist": "Procol Harum",
+      "has_synced": false,
+      "path": "select/06_This_Old_Dog_Procol_Harum.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "This Old Dog (live studio recording)",
+      "artist": "Procol Harum",
+      "has_synced": true,
+      "path": "select/07_This_Old_Dog_(live_studio_recording)_Procol_Harum.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "This Old Dog (live)",
+      "artist": "Procol Harum",
+      "has_synced": false,
+      "path": "select/08_This_Old_Dog_(live)_Procol_Harum.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This Old Dog",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/09_This_Old_Dog_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Old Dog (Paused)",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/10_This_Old_Dog_(Paused)_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Old Dog",
+      "artist": "Mac Demarco",
+      "has_synced": false,
+      "path": "select/pl_01_This_Old_Dog_Mac_Demarco.txt"
+    }
+  ]
+}
